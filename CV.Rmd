@@ -1,14 +1,14 @@
 ---
-name: Tristan RH 
-surname: Goodbody
-position: "Remote Sensing of Forests Specialist"
+name: Evan R
+surname: Muise
+position: "MSc Student - Remote Sensing and Conservation"
 address: "University of British Columbia, Vancouver"
 #profilepic: "./img/me.jpg"
-phone: +604 992 1327
-email: "tristan.goodbody@ubc.ca"
-github: tgoodbody
-twitter: GoodbodyT
-orcid: 0000-0002-6894-7925
+phone: +902 266 3688
+email: "evan.muise@ubc.ca"
+github: emuise
+twitter: evanmuise
+orcid: 0000-0003-3404-3220
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: 414141
 docname: CV
@@ -85,27 +85,27 @@ education %>%
 \begin{cvskills}
   \cvskill
     {Data Science}
-    {R (Advanced: developed sgsR package), LAStools, lidR, ENVI, ARC/QGIS, ArcPy}
+    {R, Python, ArcGIS, ArcPy, big data}
 
   \cvskill
     {Research}
-    {Forest modelling, inventory analysis, lidar processing, digital aerial photogrammetry, raster analysis}
+    {Protected area design and monitoring, forest structure and productivity, reproducibility, geospatial analysis}
     
   \cvskill
     {Collaboration}
-    {Extensive work with academic, government, and industry representatives}
+    {Experience working with academic, indigenous, and government groups}
 
   \cvskill
     {Writing}
-    {Scientific publications, public reports, funding grants, reproducible reporting (Rmarkdown, bookdown)}
+    {Scientific publications, funding grants, reproducible reporting (Rmarkdown, bookdown)}
     
   \cvskill
     {Communication}
-    {Confident public speaker, effective graphic design (Illustrator/inDesign)}  
+    {Confident public speaker, reproducible graphics and maps}  
 
   \cvskill
     {Languages}
-    {English/Spanish (bilingual)}
+    {English/French (bilingual)}
 \end{cvskills}
 
 # Awards
