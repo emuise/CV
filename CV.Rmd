@@ -3,7 +3,7 @@ name: Evan R
 surname: Muise
 position: "MSc Student - Remote Sensing and Conservation"
 address: "University of British Columbia, Vancouver"
-#profilepic: "./img/me.jpg"
+profilepic: "./img/me.jpg"
 phone: +902 266 3688
 email: "evan.muise@ubc.ca"
 github: emuise

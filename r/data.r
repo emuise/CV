@@ -23,16 +23,16 @@ awards <- tribble(
 
 experience <- tribble(
     ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-    "MSc Student", "Faculty of Forest Resources Management (UBC)", "June", 2020, "Present", NA, "Vancouver, BC",
+    "MSc Student", "Faculty of Forestry (UBC)", "June", 2020, "Present", NA, "Vancouver, BC",
     "Monitoring Forest Structural Integrity Across a Range of Regional Ecosystems. \\begin{itemize}
         \\item Identified placement bias in the British Columbian protected area network for ecosystem and land cover classes
         \\item Identified missing forest structures in the British Columbian protected area network across a range of ecosystems
     \\end{itemize}",
-    "Teaching Assistant", "Faculty of Forest Resources Management (UBC)", "September", 2020, "Present", NA, "Vancouver, BC",
+    "Graduate Teaching Assistant", "Faculty of Forestry (UBC)", "September", 2020, "Present", NA, "Vancouver, BC",
     "Leading \\& supervising applied exercises to guide student knowledge of remote sensing and coding concepts. \\begin{itemize}
         \\item GEM 530 - Geospatial Data Analysis (Fall 2020)
         \\item CONS 127 - Observing the Earth from Space (Spring 2021)
-        \\item CONS 340 - Introduction to Geographic Information Systems for Forestry and Conservation
+        \\item CONS 340 - Introduction to Geographic Information Systems for Forestry and Conservation (Fall 2021)
         \\item CONS127 - Observing the Earth from Space (Head TA; Spring 2022)
     \\end{itemize}",
     "Teaching Assistant", "Department of Earth and Environmental Science (Dalhousie)", "January", 2020, "May", 2020, "Halifax, NS",
@@ -41,12 +41,12 @@ experience <- tribble(
         \\item Introduced and aided students with activities related to mapping and environmental contaminants.
     \\end{itemize}",
     "Junior Program Officer (PM-01)", "Indigenous Partnerships Office - West (NRCan)", "September", 2018, "May", 2019, "Vancouver, BC",
-    "Implemented planning and management perscriptions. \\begin{itemize}
+    "\\begin{itemize}
         \\item Report Preparation
         \\item Data Maintenance and Cleaning
         \\item Liasions with Indigenous Groups
     \\end{itemize}",
-    "Undergrad Research Assistant", "REMLab (Dalhousie)", "May", 2018, "August", 2018, "Halifax, NS",
+    "Undergrad Research Assistant", "REMLab (Dalhousie University)", "May", 2018, "August", 2018, "Halifax, NS",
     "Organized and conducted urban forestry field campaigns. \\begin{itemize}
         \\item Data Collection, Entry, Cleaning, and Analysis
         \\item Public Outreach Regarding Urban Forests
