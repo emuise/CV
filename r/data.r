@@ -1,7 +1,7 @@
 
 education <- tribble(
     ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-    "University of British Columbia", "MSc Remote Sensing and Conservation", "June", 2020, "Present", NA, "Vancouver, BC",
+    "University of British Columbia", "PhD Remote Sensing and Conservation", "June", 2020, "Present", NA, "Vancouver, BC",
     "Monitoring Forest Structural Integrity Across a Range of Regional Ecosystems",
     "Dalhousie University", "BSc Environmental Science (Hons)", "September", 2015, "May", 2020, "Halifax, NS",
     "Emerging Hot Spot Analysis and Forests: A Case Study on the Hemlock Woolly Adelgid’s Invasion into Nova Scotia using Fine Spatial Resolution Satellite Imagery."
@@ -23,19 +23,19 @@ awards <- tribble(
 
 experience <- tribble(
     ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-    "MSc Student", "Faculty of Forestry (UBC)", "June", 2020, "Present", NA, "Vancouver, BC",
+    "PhD Student", "Faculty of Forestry (University of British Columbia)", "June", 2020, "Present", NA, "Vancouver, BC",
     "Monitoring Forest Structural Integrity Across a Range of Regional Ecosystems. \\begin{itemize}
         \\item Identified placement bias in the British Columbian protected area network for ecosystem and land cover classes
         \\item Identified missing forest structures in the British Columbian protected area network across a range of ecosystems
     \\end{itemize}",
-    "Graduate Teaching Assistant", "Faculty of Forestry (UBC)", "September", 2020, "Present", NA, "Vancouver, BC",
+    "Graduate Teaching Assistant", "Faculty of Forestry (University of British Columbia)", "September", 2020, "Present", NA, "Vancouver, BC",
     "Leading \\& supervising applied exercises to guide student knowledge of remote sensing and coding concepts. \\begin{itemize}
         \\item GEM 530 - Geospatial Data Analysis (Fall 2020)
         \\item CONS 127 - Observing the Earth from Space (Spring 2021)
         \\item CONS 340 - Introduction to Geographic Information Systems for Forestry and Conservation (Fall 2021)
-        \\item CONS127 - Observing the Earth from Space (Head TA; Spring 2022)
+        \\item CONS127 - Observing the Earth from Space (Head TA; January 2022 - December 2023)
     \\end{itemize}",
-    "Teaching Assistant", "Department of Earth and Environmental Science (Dalhousie)", "January", 2020, "May", 2020, "Halifax, NS",
+    "Teaching Assistant", "Department of Earth and Environmental Science (Dalhousie University)", "January", 2020, "May", 2020, "Halifax, NS",
     "Leading \\& supervising applied exercises to guide student knowledge of environmental issues in the earth sciences. \\begin{itemize}
         \\item ENVS2410 - Environmental Issues in Earth Sciences
         \\item Introduced and aided students with activities related to mapping and environmental contaminants.
@@ -57,6 +57,7 @@ presentations <- tribble(
     ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
     "Documenting Structural Land Cover Change and Disturbance across Provincial BC Parks for Biodiversity Assessment", "BC Parks Living Lab Colloquium", "December", 2020, NA, NA, "Online",
     NA,
+    "Monitoring forest structural representation across a network of protected areas.", "ForestSAT", "September", 2022, NA, NA, "Berlin, Germany", NA
 )
 
 

@@ -1,7 +1,7 @@
 ---
 name: Evan R
 surname: Muise
-position: "MSc Student - Remote Sensing and Conservation"
+position: "PhD Student - Remote Sensing and Conservation"
 address: "University of British Columbia, Vancouver"
 profilepic: "./img/me.jpg"
 phone: +902 266 3688
@@ -85,7 +85,7 @@ education %>%
 \begin{cvskills}
   \cvskill
     {Data Science}
-    {R, Python, ArcGIS, ArcPy, big data}
+    {R, Python, ArcGIS, Google Earth Engine}
 
   \cvskill
     {Research}
@@ -93,7 +93,7 @@ education %>%
     
   \cvskill
     {Collaboration}
-    {Experience working with academic, indigenous, and government groups}
+    {Experience working with academic, Indigenous, and government groups}
 
   \cvskill
     {Writing}
